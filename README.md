@@ -3,6 +3,8 @@
 🔭 **I’m currently working on:** <br>Node js and its FrameWork Nest Js.<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>TypeScript and GraphQL <br><br>💬 **Ask me about:** <br>JavaScript, React, Node.js, MongoDB, MySQL and any general software development questions.<br><br>⚡ **Fun fact:** <br>I love to code.
 
 ## 🌐 Socials:
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/diveshrajput03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diveshkumar03/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20441489/divesh-rajpoot)
 
