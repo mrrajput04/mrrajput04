@@ -1,34 +1,90 @@
-# 💫 About Me:
+<h1 align="center">Hi there, I'm Rajput 👋</h1>
 
-🔭 **I’m currently working on:** <br>Node js and its FrameWork Nest Js.<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>TypeScript and GraphQL <br><br>💬 **Ask me about:** <br>JavaScript, React, Node.js, MongoDB, MySQL and any general software development questions.<br><br>⚡ **Fun fact:** <br>I love to code.
+<p align="center">
+  🚀 Backend Developer | Node.js | NestJS | MongoDB | PostgreSQL | MySQL  
+</p>
 
-## 🌐 Socials:
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+MongoDB+%7C+PostgreSQL;Building+Scalable+and+Secure+APIs" />
+</p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/diveshrajput03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diveshkumar03/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20441489/divesh-rajpoot)
+## 💫 About Me:
 
-# 💻 Tech Stack:
+🔭 **I’m currently working on:**  
+- Node.js and NestJS backend projects.  
+- Secure authentication systems.  
+- API development for scalable applications.  
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+👯 **I’m looking to collaborate on:**  
+- Full-stack applications with a strong backend focus.  
+- Open-source projects related to API development.  
 
+🌱 **I’m currently learning:**  
+- GraphQL and Microservices architecture.  
+- Advanced security best practices.  
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+💬 **Ask me about:**  
+- Node.js, NestJS, MongoDB, MySQL, PostgreSQL  
+- Authentication, JWT, OAuth, and Redis  
+- Backend Performance Optimization  
 
+⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀  
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+---
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## 🌐 Connect with Me:
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <a href="https://github.com/mrrajput04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR_ID">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
 
+---
 
-# 📊 GitHub Stats:
+## 💻 Tech Stack:
 
-![](https://github-readme-stats.vercel.app/api?username=mrrajput04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrrajput04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajput04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Backend & Frameworks:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🛢️ Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Tools:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 📜 Languages:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrajput04&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrajput04&theme=radical" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajput04&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+⭐ **Fun Fact:** I love writing efficient code and optimizing APIs for high performance! 🚀
