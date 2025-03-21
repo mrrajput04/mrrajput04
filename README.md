@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+MongoDB+%7C+PostgreSQL;Building+Scalable+and+Secure+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+MongoDB+%7C+MySQL;Building+Scalable+and+Secure+APIs" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
