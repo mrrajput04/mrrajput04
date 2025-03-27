@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rajput 👋</h1>
+<h1 align="center">Hi there, I'm Divesh 👋</h1>
 
 <p align="center">
   🚀 Backend Developer | Node.js | NestJS | MongoDB | PostgreSQL | MySQL  
