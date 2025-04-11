@@ -26,7 +26,8 @@
 - Advanced security best practices.  
 
 💬 **Ask me about:**  
-- Node.js, NestJS, MongoDB, MySQL, PostgreSQL  
+- Node.js, NestJS, MongoDB, MySQL, PostgreSQL
+- Javascript, Typescript  
 - Authentication, JWT, OAuth, and Redis  
 - Backend Performance Optimization  
 
