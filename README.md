@@ -56,18 +56,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### [Project Name 1](https://github.com/mrrajput04/project1)
-📝 Brief description of the project and its key features
-![Project Screenshot](https://via.placeholder.com/400x200)
-
-### [Project Name 2](https://github.com/mrrajput04/project2)
-📝 Brief description of the project and its key features
-![Project Screenshot](https://via.placeholder.com/400x200)
-
----
-
 ## 🛠️ Skills & Expertise
 
 ### Backend Development
