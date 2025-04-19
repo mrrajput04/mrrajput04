@@ -131,19 +131,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mrrajput04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 🗓️ Most Productive Days
+## 📈 Recent Activity
 
-<!--START_SECTION:waka:days-->
-```text
-Monday       ████████████████████░░░░░   75.0%
-Tuesday      ████████████████░░░░░░░░░   65.0%
-Wednesday    ████████████████████████░   95.0%
-Thursday     █████████████████████░░░░   85.0%
-Friday       ████████████████████░░░░░   75.0%
-Saturday     ████████████████░░░░░░░░░   65.0%
-Sunday       █████████████████████░░░░   85.0%
-```
-<!--END_SECTION:waka:days-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ⭐ **Fun Fact:** I love writing efficient code and optimizing APIs for high performance! 🚀
 
@@ -152,4 +143,11 @@ Sunday       █████████████████████░�
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrrajput04&
+  theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
