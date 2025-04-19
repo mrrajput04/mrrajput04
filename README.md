@@ -166,11 +166,6 @@ Other         █░░░░░░░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=mrrajput04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 📈 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrajput04&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ## 🗓️ Most Productive Days
 
@@ -186,22 +181,3 @@ Sunday       █████████████████████░�
 ```
 <!--END_SECTION:waka:days-->
 
-## 💻 Operating System Usage
-
-<!--START_SECTION:waka:os-->
-```text
-Windows      ████████████████████░░░░░   75.0%
-Linux        ████████████████████████░   95.0%
-MacOS        ████████████████░░░░░░░░░   65.0%
-```
-<!--END_SECTION:waka:os-->
-
-## 🛠️ Editor Usage
-
-<!--START_SECTION:waka:editors-->
-```text
-VS Code      ████████████████████████░   95.0%
-IntelliJ     ████████████████████░░░░░   75.0%
-Sublime      ████████████████░░░░░░░░░   65.0%
-```
-<!--END_SECTION:waka:editors-->
