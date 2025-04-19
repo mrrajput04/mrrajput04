@@ -115,32 +115,21 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrajput04&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrajput04&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrajput04&theme=radical" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajput04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-⭐ **Fun Fact:** I love writing efficient code and optimizing APIs for high performance! 🚀
-
----
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</div>
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrrajput04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
 
 ## 🗓️ Most Productive Days
 
@@ -155,4 +144,12 @@ Saturday     ████████████████░░░░░░�
 Sunday       █████████████████████░░░░   85.0%
 ```
 <!--END_SECTION:waka:days-->
+
+⭐ **Fun Fact:** I love writing efficient code and optimizing APIs for high performance! 🚀
+
+---
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</div>
 

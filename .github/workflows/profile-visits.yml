@@ -36,24 +36,6 @@ jobs:
           SHOW_STARTED_PROJECTS: true
           SHOW_RECENT_ACTIVITY: true
           
-      - name: Update GitHub Stats
-        uses: jstrieb/github-stats@latest
-        with:
-          username: mrrajput04
-          include_all_commits: true
-          show_icons: true
-          count_private: true
-          show_rank: true
-          show_rank_icon: true
-          show_rank_text: true
-          show_rank_details: true
-          show_rank_achievements: true
-          show_rank_contributions: true
-          show_rank_repositories: true
-          show_rank_stars: true
-          show_rank_followers: true
-          show_rank_following: true
-          
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
