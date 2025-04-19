@@ -88,12 +88,6 @@
 
 ---
 
-## 📚 Latest Blog Posts
-- [Title of your latest blog post](https://your-blog-url.com)
-- [Another interesting article](https://your-blog-url.com)
-
----
-
 ## 🏆 Achievements
 - 🏅 Certified Node.js Developer
 - 🏆 Winner of [Hackathon Name]
@@ -130,13 +124,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajput04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-## 🤝 Testimonials
-> "Divesh is an exceptional backend developer with a keen eye for performance optimization." - [Colleague Name]
-
-> "His expertise in Node.js and NestJS helped us build a robust and scalable API." - [Client Name]
 
 ---
 
