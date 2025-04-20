@@ -88,14 +88,6 @@
 
 ---
 
-## 🏆 Achievements
-- 🏅 Certified Node.js Developer
-- 🏆 Winner of [Hackathon Name]
-- 📚 Published [Number] technical articles
-- 🌟 [Number] GitHub stars across repositories
-
----
-
 ## 🌐 Connect with Me:
 
 <p align="center">
