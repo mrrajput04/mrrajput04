@@ -123,10 +123,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mrrajput04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+---
 
 ⭐ **Fun Fact:** I love writing efficient code and optimizing APIs for high performance! 🚀
 
