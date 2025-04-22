@@ -124,13 +124,3 @@
 </p>
 
 ---
-
-⭐ **Fun Fact:** I love writing efficient code and optimizing APIs for high performance! 🚀
-
----
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</div>
-
-
