@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Divesh 👋</h1>
 
 <p align="center">
-  🚀 Backend Developer | Node.js | NestJS | MongoDB | PostgreSQL | MySQL  
+  🚀 Backend Developer | Node.js | ExpressJS | NestJS | MongoDB | PostgreSQL | MySQL  
 </p>
 
 <p align="center">
