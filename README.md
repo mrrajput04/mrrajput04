@@ -52,7 +52,7 @@
 - Backend Performance Optimization  
 - API Design and Documentation  
 
-⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀🚀  
+⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀
 
 ---
 
