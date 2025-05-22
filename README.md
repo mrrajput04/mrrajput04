@@ -15,15 +15,6 @@
   <img src="https://img.shields.io/github/last-commit/mrrajput04/mrrajput04?label=Last%20Update" alt="Last Update" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mrrajput04/mrrajput04/actions">
-    <img src="https://github.com/mrrajput04/mrrajput04/workflows/Node.js%20CI/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://codecov.io/gh/mrrajput04/mrrajput04">
-    <img src="https://codecov.io/gh/mrrajput04/mrrajput04/branch/main/graph/badge.svg" alt="Code Coverage" />
-  </a>
-</p>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 💫 About Me:
