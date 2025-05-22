@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="mailto:rajpootdivesh5[at]gmail[dot]com">
-  <img src="https://img.shields.io/badge/Email-rajpootdivesh503%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-rajpootdivesh5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
