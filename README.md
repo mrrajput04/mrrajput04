@@ -41,7 +41,7 @@
 - JavaScript, TypeScript  
 - Authentication, JWT, OAuth, and Redis  
 - Backend Performance Optimization  
-- API Design and Documentation  
+- API Design and Documentation (Swagger, Postman, and best practices)  
 
 ⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀
 
@@ -91,9 +91,9 @@
   <a href="https://stackoverflow.com/users/20441489/divesh-rajpoot">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <a href="mailto:rajpootdivesh5[at]gmail[dot]com">
+  <img src="https://img.shields.io/badge/Email-rajpootdivesh503%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
