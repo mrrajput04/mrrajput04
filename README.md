@@ -24,7 +24,6 @@
 
 🔭 **I'm currently working on:**  
 - Node.js and NestJS backend projects  
-- Secure authentication systems  
 - API development for scalable applications  
 - Microservices architecture implementation  
 
@@ -35,16 +34,8 @@
 
 🌱 **I'm currently learning:**  
 - GraphQL and Microservices architecture  
-- Advanced security best practices  
-- Cloud-native application development  
+- Advanced security best practices   
 - System design and architecture patterns  
-
-💬 **Ask me about:**  
-- Node.js, NestJS, MongoDB, MySQL, PostgreSQL
-- JavaScript, TypeScript  
-- Authentication, JWT, OAuth, and Redis  
-- Backend Performance Optimization  
-- API Design and Documentation (Swagger, Postman, and best practices)  
 
 ⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀
 
