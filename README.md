@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Divesh 👋</h1>
 <p align="center">
-  I'm a backend developer passionate about building scalable systems, modern web technologies, and optimizing robust APIs. I thrive on solving complex problems and continuously learning new technologies in the backend ecosystem.
-</p>
-
-<p align="center">
-  🚀 Backend Developer | Node.js | ExpressJS | NestJS | MongoDB | PostgreSQL | MySQL  
+🚀🚀 I'm a backend developer passionate about building scalable systems, modern web technologies, and robust APIs. I thrive on solving complex problems, continuously learning new backend technologies, and specialize in Node.js, ExpressJS, NestJS, MongoDB, PostgreSQL, and MySQL.🚀🚀
 </p>
 
 <p align="center">
