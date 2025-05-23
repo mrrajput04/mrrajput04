@@ -39,8 +39,6 @@
 
 ⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀
 
----
-
 ## 🛠️ My Toolbox
 
 <p align="center">
@@ -61,8 +59,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
----
-
 ## 🌐 Connect with Me:
 
 <p align="center">
@@ -80,8 +76,6 @@
 </a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -92,12 +86,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrajput04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrrajput04&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
----
