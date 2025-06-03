@@ -29,9 +29,9 @@ I'm a backend developer passionate about building scalable systems, modern web t
 - Performance optimization tools and libraries  
 
 🌱 **I'm currently learning:**  
-- GraphQL and Microservices architecture  
-- Advanced security best practices   
-- System design and architecture patterns  
+- GraphQL and Microservices architecture     
+- System design and architecture patterns
+- leaning go lang  
 
 ⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀
 
