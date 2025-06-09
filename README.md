@@ -31,9 +31,9 @@ I'm a backend developer passionate about building scalable systems, modern web t
 🌱 **I'm currently learning:**  
 - GraphQL and Microservices architecture     
 - System design and architecture patterns
-- Learning Go language.  
+- Learning Go language
 
-⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀
+⚡ **Fun fact:** I love writing optimized and scalable backend code! 🚀🚀
 
 ## 🛠️ My Toolbox
 
