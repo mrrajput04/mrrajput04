@@ -33,7 +33,7 @@ I'm a backend developer passionate about building scalable systems, modern web t
 - System design and architecture patterns
 - Learning Go language
 
-⚡ **Fun fact:** I love writing optimized and scalable backend code!
+⚡ **Fun fact:** I love writing optimized and scalable backend code!🚀🚀
 
 ## 🛠️ My Toolbox
 
