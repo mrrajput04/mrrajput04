@@ -19,7 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push Changes
+            - name: Commit & Push Changes
         env:
           TOKEN: ${{ secrets.PAT_TOKEN }}
           REPO: ${{ github.repository }}
@@ -27,9 +27,18 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          # This is the KEY line that was missing before!
+          # ✅ DEBUG: Show current remote before changing
+          echo "==> Before remote set:"
+          git remote -v
+          
+          # ✅ Set remote to use PAT for authentication
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${REPO}.git
-
+          
+          # ✅ DEBUG: Confirm remote was updated
+          echo "==> After remote set:"
+          git remote -v
+          
           git add -A
           git commit -m "generated" || echo "No changes to commit"
           git push origin HEAD:main
+
