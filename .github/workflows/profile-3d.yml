@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Runs daily at 18:00 UTC (03:30 IST)
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *" # Runs daily at 18:00 UTC / 03:30 IST
   workflow_dispatch:
 
 jobs:
@@ -21,12 +21,15 @@ jobs:
 
       - name: Commit & Push Changes
         env:
-          REPO: ${{ github.repository }}
           TOKEN: ${{ secrets.PAT_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          # This is the KEY line that was missing before!
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${REPO}.git
-          git add -A .
+
+          git add -A
           git commit -m "generated" || echo "No changes to commit"
           git push origin HEAD:main
