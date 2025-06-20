@@ -19,7 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-            - name: Commit & Push Changes
+      - name: Commit & Push Changes
         env:
           TOKEN: ${{ secrets.PAT_TOKEN }}
           REPO: ${{ github.repository }}
