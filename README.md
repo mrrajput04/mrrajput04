@@ -76,7 +76,7 @@ I'm a backend developer passionate about building scalable systems, modern web t
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrajput04&show_icons=true&locale=en&layout=compact&theme=radical&include_all_commits=true" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrrajput04&show_icons=true&locale=en&theme=radical" alt="GitHub Streak Stats" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=mrrajput04&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=mrrajput04&count_private=true&theme=radical" alt="GitHub Stats" /></p>
 
 ## 🏆 GitHub Achievements
 
