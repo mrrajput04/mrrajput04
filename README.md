@@ -19,7 +19,7 @@ I'm a backend developer passionate about building scalable systems, modern web t
 ## 💫 About Me:
 
 🔭 **I'm currently working on:**  
-- Node.js and NestJS backend projects  
+- Node.js and redis backend projects  
 - API development for scalable applications  
 - Microservices architecture implementation  
 
